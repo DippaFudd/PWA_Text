@@ -54,6 +54,6 @@ The app will now be available at http://localhost:3000 (or the port specified by
 
 
 ## Screenshots
-![Image Alt]
-![Image Alt]
+![Image Alt](https://github.com/DippaFudd/PWA_Text/blob/733508714011aa97e6e9fbee1a4612681a022a00/2025-03-27%20(4).png)
+![Image Alt](https://github.com/DippaFudd/PWA_Text/blob/733508714011aa97e6e9fbee1a4612681a022a00/2025-03-27%20(5).png)
 
